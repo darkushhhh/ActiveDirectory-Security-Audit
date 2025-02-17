@@ -42,4 +42,4 @@
 ## Ресурсы
 - Полный отчет об аудите: [Audit_Report.pdf](./Audit_Report.pdf)
 - Скриншоты: см. `screenshots/`
-- Исходные отчеты: `reports/`
+- Исходные отчеты: см. `reports/`
